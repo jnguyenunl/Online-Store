@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Ecommerce.Models.Product>
+@{
+    ViewBag.Title = "Women";
+}
+
+<div class="container-fluid" id="bg-section2">
+    <h2>WOMEN</h2>
+    <div class="row">
+        @foreach (var item in Model) {
+            <div class="col-md-6 col-lg-3">
+                <div class="card">
+                    <a href="/Product/Index/@item.ProductID"> @Html.DisplayFor(model => item.Name)</a>
+                    <img src="~/Content/images/icon-image.jpg" alt="" style="height: 200px; width: 200px; margin: 10px" />
+                    Price: $@Html.DisplayFor(model => item.Price)
+                    <button class="button">
+                        <a onclick="createCartProduct(@(item.ProductID))"><img src="~/Content/images/cart.png" style="width: 20px; height: 20px;" /></a>
+                    </button>
+                </div>
+            </div>
+        }
+        <script>
+            function createCartProduct(id) {
+                $.ajax({
+                    url: "/CartProducts/Create/" + id,
+                    type: "POST",
+                    async: true,
+                    success: function () {
+                        alert("The product has been added to your cart.")
+                    }
+                })
+            }
+        </script>
+    </div>
+</div>

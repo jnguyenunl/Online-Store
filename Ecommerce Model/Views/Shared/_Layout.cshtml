@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Online Shop</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="~/Content/style.css" rel="stylesheet" />
+    @Styles.Render("~/Content/style.css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="menu">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="/Home/Index">G4 SHOP</a>
+                </div>
+                <ul class="nav navbar-nav">
+                    <li><a href="/Home/Index">Home</a></li>
+                    <li><a href="/Home/Women">Women</a></li>
+                    <li><a href="/Home/Men">Men</a></li>
+                    <li><a href="/Home/About">About</a></li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/Carts/Index"><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
+                    <li><a href="/Account/SignUp"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+                    <li><a href="/Account/Login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="container-fluid">
+        <div class="nav navbar-right">
+            <div class="search">
+                <p>
+                    @using (Html.BeginForm("Index", "Search")) {
+                        @Html.TextBox("SearchString", null, new { @placeholder = "Search" })
+                        <input type="submit" value="Search" id="submit" name="submit">
+                    }
+                </p>
+            </div>
+            
+        </div>
+    </div>
+
+
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    <div class="footer">
+        <div class="col-sm-6 col-lg-4" id="bg-section4">
+            <h3>CO-CREATORS</h3>
+            <p>Tai Vo</p>
+            <p>James Nguyen</p>
+            <p>Justin Le</p>
+            <p>Krishna Kotha</p>
+            <p>Albert Li</p>
+        </div>
+        <div class="col-sm-6 col-lg-4" id="bg-section4">
+            <h3>CONTACT HOURS</h3>
+            <p>Phone Weekdays: 8am - 5pm</p>
+            <p>Phone Saturday: 8am - 4pm</p>
+            <p>Phone Sunday: 8am - 12pm</p>
+            <p>Email Weekdays: 8am - 5pm</p>
+            <p>Email Weekends: 8am - 4pm</p>
+        </div>
+        <div class="col-sm-6 col-lg-4" id="bg-section4">
+            <h3>CONTACT US</h3>
+            <p>CSE Department</p>
+            <p>University of Nebraska - Lincoln</p>
+            <p>Address: 123 4th St</p>
+            <p>Lincoln, NE 68528</p>
+            <p>Phone: (402) 123 - 4567</p>
+        </div>
+    </div>
+        
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+</body>
+</html>

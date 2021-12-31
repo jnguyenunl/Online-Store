@@ -1,0 +1,29 @@
+﻿@model Ecommerce.Models.User
+@{
+    ViewBag.Title = "SignUp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="logreg-forms">
+    @using (Html.BeginForm("SignUp", "Account", FormMethod.Post))
+    {
+        <h1 class="h3 mb-3 font-weight-normal" style="text-align: center"> REGISTER</h1>
+
+        <div style="color:red;">@Html.ValidationSummary()</div>
+        <div class="col-lg-12">@ViewBag.Message</div>
+
+        <input @Html.TextBoxFor(a => a.Username, new { @class = "form-control", placeholder = "Username", required = "", autofocus = "", type = "text", id = "" })
+        <input @Html.TextBoxFor(a => a.Email, new { type = "email", id = "inputEmail", @class = "form-control", placeholder = "Email Address", required = "", autofocus = "" })
+        <input @Html.TextBoxFor(a => a.Password, new { type = "password", id = "inputPassword", @class = "form-control", placeholder = "Password", required = "" })
+        <input @Html.TextBoxFor(a => a.ConfirmPassword, new { type = "password", id = "inputPassword", @class = "form-control", placeholder = " Confirm Password", required = "" })
+        <input @Html.TextBoxFor(a => a.Address.Street, new { type = "text", id = "", @class = "form-control", placeholder = "Street", required = "" })
+        <input @Html.TextBoxFor(a => a.Address.City, new { type = "text", id = "", @class = "form-control", placeholder = "City", required = "" })
+        <input @Html.TextBoxFor(a => a.Address.State, new { type = "text", id = "", @class = "form-control", placeholder = "State", required = "" })
+        <input @Html.TextBoxFor(a => a.Address.Country, new { type = "text", id = "", @class = "form-control", placeholder = "Country", required = "" })
+        <input @Html.TextBoxFor(a => a.Address.PostalCode, new { type = "text", id = "", @class = "form-control", placeholder = "Postal Code", required = "" })
+        <button class="btn btn-primary btn-block" type="submit" id="btn-signup">Sign up</button>
+        <hr>
+        <a href="#" id="forgot_pswd">Already have an account?</a>
+        <input class="btn btn-success btn-block" type="button" value="Log In" onclick="window.location.href='@Url.Action("Login", "Account")'" />
+    }
+</div>

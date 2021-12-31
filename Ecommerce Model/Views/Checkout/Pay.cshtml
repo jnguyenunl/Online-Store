@@ -1,0 +1,54 @@
+﻿@using Ecommerce.Models
+@model Ecommerce.Models.Order
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<Cart> carts = ViewData["Carts"] as List<Cart>;
+    double subtotal = 0;
+    double tax = 0;
+    double shipping = 0;
+    double total = 0;
+    foreach (Cart c in carts)
+    {
+        foreach (CartProduct cp in c.CartProducts)
+        {
+            subtotal += (cp.Product.Price * cp.Quantity);
+        }
+        // Nebraska sales tax
+        subtotal = Math.Round(subtotal, 2);
+        shipping = Math.Round(shipping, 2);
+        tax = 0.055 * subtotal;
+        tax = Math.Round(tax, 2);
+        total = subtotal + tax + shipping;
+        total = Math.Round(total, 2);
+    }
+}
+
+<div>
+    @using (Html.BeginForm("Pay", "Checkout", FormMethod.Post))
+    {
+        <h1 class="h3 mb-3 font-weight-normal" style="text-align: center"> Checkout</h1>
+
+        <div style="color:red;">@Html.ValidationSummary()</div>
+        <div class="col-lg-12">@ViewBag.Message</div>
+
+        <input type="hidden" name="PriceTotal" value="@subtotal" />
+        <input type="hidden" name="Tax" value="@tax" />
+        <input type="hidden" name="ShippingCost" value="@shipping" />
+        <input type="hidden" name="Total" value="@total" />
+
+        <p>Subtotal:      $@subtotal</p>
+        <p>Tax:           $@tax</p>
+        <p>Shipping Cost: $@shipping</p>
+        <p>Total:         $@total</p>
+        <p>Payment Type:</p> @Html.TextBoxFor(s => s.PaymentType, new { @class = "form-control", required = "", autofocus = "", type = "text", id = "" })
+        <p>Payment Info:</p> @Html.TextBoxFor(s => s.PaymentInfo, new { @class = "form-control", required = "", autofocus = "", type = "text", id = "" })
+        <hr>
+
+        <button class="btn btn-success btn-block" type="submit" id="btn-signup">Confirm Payment</button>
+        <hr>
+
+        <input class="btn btn-primary btn-block" type="button" value="Go Back to Cart" onclick="window.location.href='@Url.Action("Index", "Carts")'" />
+
+    }
+</div>

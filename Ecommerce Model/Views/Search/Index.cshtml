@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Ecommerce.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Search Results</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Manufacturer
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+            Rating
+        </th>
+        <th>
+            Dimensions
+        </th>
+        <th>
+            Weight
+        </th>
+        <th>
+            SKU
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach(var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Manufacturer.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Description)
+    </td>
+    <td>
+        $@Html.DisplayFor(modelItem => item.Price)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Rating)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Size)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Weight)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.SKU)
+    </td>
+    <td>
+        <a onclick="createCartProduct(@(item.ProductID))"><img src="~/Content/images/cart.png" style="width: 20px; height: 20px;" /></a>
+    </td>
+    <script>
+        function createCartProduct(id) {
+            $.ajax({
+                url: "/CartProducts/Create/" + id,
+                type: "POST",
+                async: true,
+                success: function () {
+                    alert("The product has been added to your cart.")
+                }
+            })
+        }
+    </script>
+</tr>
+    }
+
+</table>

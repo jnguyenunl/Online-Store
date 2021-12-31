@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Ecommerce.Models.Cart>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int n = 1;
+}
+
+<h2>Shopping Cart</h2>
+
+<div style="align-content:center">
+
+@foreach (var item in Model) {
+    <table class="table">
+        <tr>
+            <th>Cart @(n++)</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>
+                Product
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th></th>
+        </tr>
+        @{ 
+            double p = 0;
+        }
+        @foreach (var i in item.CartProducts)
+        {
+            p += i.Product.Price * i.Quantity;
+            <tr>
+                <td>@Html.ActionLink(i.Product.Name, "Details", "Product", new { id = i.CartProductID }, null)</td>
+                <td>$@i.Product.Price</td>
+                <td>@i.Quantity</td>
+                <td>
+                    @Html.ActionLink("Delete", "Delete", "CartProducts", new { id = i.CartProductID }, null) |
+                    @Html.ActionLink("Edit Quantity", "Edit", "CartProducts", new { id = i.CartProductID }, null)
+
+                </td>
+            </tr>
+        }
+        <tr>
+            <th>Total Price: $@Html.DisplayFor(modelItem => p)</th>
+            <th></th>
+            <th></th>
+            <th>@Html.ActionLink("Checkout this cart", "Pay", "Checkout", new { price = p }, null)</th>
+
+        </tr>
+
+    </table>
+
+            
+            }
+
+</div>

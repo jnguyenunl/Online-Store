@@ -1,0 +1,32 @@
+﻿@model Ecommerce.Models.Product
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Html.DisplayFor(model => model.Name)</h2>
+<div class="dl-horizontal">
+    <div>
+        <h4>Description: </h4><p>@Html.DisplayFor(model => model.Description)</p>
+    </div>
+    <div>
+        <h4>Price: </h4><p>$@Html.DisplayFor(model => model.Price)</p>
+    </div>
+    <div>
+        <h4>Rating: </h4><p>@Html.DisplayFor(model => model.Rating)</p>
+    </div>
+    <div>
+        <h4>Weight: </h4><p>@Html.DisplayFor(model => model.Weight) kg</p>
+    </div>
+    <div>
+        <h4>Size: </h4><p>@Html.DisplayFor(model => model.Size)</p>
+    </div>
+    <div>
+        <h4>Manufacturer: </h4><p>@ViewData["Manufacturer"]</p>
+    </div>
+    <div>
+        <input type="button" value="Go Back" onclick="history.back(-1)" />
+    </div>
+    
+</div >

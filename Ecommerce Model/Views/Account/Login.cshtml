@@ -1,0 +1,25 @@
+﻿@model Ecommerce.Models.Login
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="logreg-forms">
+    @using (Html.BeginForm("Login", "Account"))
+    {
+        <h1 class="h3 mb-3 font-weight-normal" style="text-align: center"> SIGN IN</h1>
+
+        <div style="color:red;">@Html.ValidationSummary()</div>
+        <div class="col-lg-12">@ViewBag.Message</div>
+
+        <input @Html.TextBoxFor(a => a.Email, new { @class = "form-control", placeholder = "Email Address", required = "", autofocus = "", type = "email", id = "inputEmail" })
+
+        <input @Html.TextBoxFor(a => a.Password, new { @class = "form-control", type = "Password", placeholder = "Password", required = "", id = "inputPassword" })
+        
+        <button class="btn btn-success btn-block" type="submit" id="btn-signup">Sign in</button>
+        <a href="#" id="forgot_pswd">Forgot password?</a>
+        <hr>
+        <a href="/Account/SignUp" id="forgot_pswd">Create Account</a>
+        <input class="btn btn-primary btn-block" type="button" value="Register" onclick="window.location.href='@Url.Action("SignUp", "Account")'" />
+    }
+</div>

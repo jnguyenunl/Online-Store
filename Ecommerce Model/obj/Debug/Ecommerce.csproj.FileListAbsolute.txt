@@ -1,0 +1,581 @@
+C:\Users\jn313\Desktop\Ecommerce\bin\Ecommerce.dll.config
+C:\Users\jn313\Desktop\Ecommerce\bin\Ecommerce.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\Ecommerce.pdb
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\csc.exe
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\csc.exe.config
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\csc.rsp
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\csi.exe
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\csi.exe.config
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\csi.rsp
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.AppContext.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Console.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Net.Http.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\vbc.exe
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\vbc.exe.config
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\vbc.rsp
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\jn313\Desktop\Ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jn313\Desktop\Ecommerce\bin\Antlr3.Runtime.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\EntityFramework.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\Newtonsoft.Json.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.Helpers.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.Mvc.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.Optimization.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.Razor.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.WebPages.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\WebGrease.dll
+C:\Users\jn313\Desktop\Ecommerce\bin\EntityFramework.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.Helpers.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.Mvc.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.Optimization.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.Razor.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.WebPages.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\Newtonsoft.Json.xml
+C:\Users\jn313\Desktop\Ecommerce\bin\Antlr3.Runtime.pdb
+C:\Users\jn313\Desktop\Ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jn313\Desktop\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\jn313\Desktop\Ecommerce\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\Users\jn313\Desktop\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Users\jn313\Desktop\Ecommerce\obj\Debug\Ecommerce.pdb
+C:\Users\jn313\Desktop\Ecommerce\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll.config
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.pdb
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\WebGrease.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.pdb
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.pdb
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe.config
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.rsp
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe.config
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.rsp
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.AppContext.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Console.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Http.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe.config
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.rsp
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tai Vo\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll.config
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.pdb
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe.config
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.rsp
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe.config
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.rsp
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.AppContext.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Console.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Http.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.ValueTuple.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe.config
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.rsp
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\WebGrease.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.pdb
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.dll
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.pdb
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll.config
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.pdb
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe.config
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.rsp
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe.config
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.rsp
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.AppContext.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Console.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Http.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.ValueTuple.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe.config
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.rsp
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\WebGrease.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.pdb
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.dll
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.pdb
+C:\Users\Justin Le\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll.config
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.pdb
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe.config
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.rsp
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe.config
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.rsp
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.AppContext.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Console.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Http.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.ValueTuple.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe.config
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.rsp
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\WebGrease.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.pdb
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.dll
+C:\Users\Krishna Kotha\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.pdb
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.pdb
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll.config
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.pdb
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe.config
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.rsp
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe.config
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.rsp
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.AppContext.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Console.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Http.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Sockets.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.ValueTuple.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe.config
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.rsp
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\WebGrease.dll
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.pdb
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\哈哈哈\Documents\GitHub\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\Users\jn313\Desktop\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll.config
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Ecommerce.pdb
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.exe.config
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csc.rsp
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.exe.config
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\csi.rsp
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.AppContext.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Console.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Http.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Net.Sockets.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.ValueTuple.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.exe.config
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\vbc.rsp
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\WebGrease.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\EntityFramework.SqlServer.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Helpers.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Mvc.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Optimization.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.Razor.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Deployment.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\System.Web.WebPages.Razor.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Newtonsoft.Json.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Antlr3.Runtime.pdb
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csprojAssemblyReference.cache
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.csproj.CopyComplete
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.dll
+C:\Users\哈哈哈\Source\Repos\taipvo\CSCE361ProjectGroup4Spring2021\Ecommerce Model\obj\Debug\Ecommerce.pdb

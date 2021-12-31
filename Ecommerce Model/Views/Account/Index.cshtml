@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = @Html.Encode(User.Identity.Name);
+}
+
+<h2>Index</h2>
+
+@if (Request.IsAuthenticated) {
+
+    <span>Welcome @Html.Encode(User.Identity.Name) </span>
+} else {
+
+    @Html.ActionLink("Login", "Login", "Account")
+    <br />
+
+    @Html.ActionLink("SignUp", "SignUp", "Account")
+}
